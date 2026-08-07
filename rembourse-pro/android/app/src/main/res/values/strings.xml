@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RemboursePro</string>
+    <string name="title_activity_main">RemboursePro</string>
+    <string name="package_name">com.rembourse.pro</string>
+    <string name="custom_url_scheme">com.rembourse.pro</string>
+</resources>
