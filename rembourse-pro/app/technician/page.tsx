@@ -94,8 +94,7 @@ export default async function TechnicianDashboard() {
         </div>
       </div>
 
-      {/* Charts Section */}
-      <DashboardCharts />
+     
 
       {/* Recent Interventions Data Table */}
       <div className="space-y-4">

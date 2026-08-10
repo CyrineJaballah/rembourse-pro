@@ -97,7 +97,7 @@ export function InterventionTable({ data }: { data: InterventionProps[] }) {
           <thead>
             <tr className="border-b border-border bg-secondary/30 text-[11px] font-semibold text-muted-foreground uppercase tracking-wider">
               <th className="py-3.5 px-6">Référence</th>
-              <th className="py-3.5 px-4">Technicien</th>
+              <th className="py-3.5 px-4">Grille</th>
               <th className="py-3.5 px-4">Type</th>
               <th className="py-3.5 px-4">Date & Heure</th>
               <th className="py-3.5 px-4">Adresse</th>
